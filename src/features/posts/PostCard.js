@@ -14,7 +14,7 @@ export default function PostCard() {
         />
       </div>
       <div className="flex justify-between">
-        <div className="flex gap-6">
+        <div className="flex gap-2 sm:gap-6">
           <p className="text-gray-300 text-[12px] sm:text-base">
             Posted by <span className="text-blue-600 font-bold">mohieman</span>
           </p>
