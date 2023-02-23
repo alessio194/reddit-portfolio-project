@@ -15,12 +15,12 @@ export default function PostCard() {
       </div>
       <div className="flex justify-between">
         <div className="flex gap-6">
-          <p className="text-gray-300">
+          <p className="text-gray-300 text-[12px] sm:text-base">
             Posted by <span className="text-blue-600 font-bold">mohieman</span>
           </p>
-          <p className="text-gray-300">7 hours ago</p>
+          <p className="text-gray-300 text-[12px] sm:text-base">7 hours ago</p>
         </div>
-        <button className="text-gray-300">
+        <button className="text-gray-300 text-[12px] sm:text-base">
           <FontAwesomeIcon icon={faComment} /> 523 Comments
         </button>
       </div>
