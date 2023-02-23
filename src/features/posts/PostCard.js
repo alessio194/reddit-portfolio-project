@@ -21,7 +21,7 @@ export default function PostCard() {
           <p className="text-gray-300 text-[12px] sm:text-base">7 hours ago</p>
         </div>
         <button className="text-gray-300 text-[12px] sm:text-base">
-          <FontAwesomeIcon icon={faComment} /> 523 Comments
+          <FontAwesomeIcon icon={faComment} /> 523
         </button>
       </div>
     </div>
